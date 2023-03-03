@@ -1,5 +1,4 @@
 import Rating from "./components/Rating";
-import Thanks from "./components/Thanks/Thanks";
 
 function App() {
   return (
